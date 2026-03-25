@@ -1,6 +1,6 @@
 # CNN-ResBiGRU-SE: Deep Residual Network with Channel Attention for Hand Gesture Recognition via sEMG
 
-[![IEEE Access](https://img.shields.io/badge/Published-IEEE%20Access-blue)](https://doi.org/10.1109/ACCESS.2024.0429000)
+[![IEEE Access](https://img.shields.io/badge/Under%20Review-IEEE%20Access-blue)](https://ieeeaccess.ieee.org/)
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-green)](https://www.python.org/)
 [![TensorFlow 2.17](https://img.shields.io/badge/TensorFlow-2.17.1-orange)](https://www.tensorflow.org/)
 [![Google Colab](https://img.shields.io/badge/Run%20in-Google%20Colab-yellow)](https://colab.research.google.com/)
@@ -13,7 +13,7 @@ This repository provides the official implementation of **CNN-ResBiGRU-SE**, a d
 
 > **S. Mekruksavanich, N. Hnoohom, and A. Jitpattanakul,**
 > *"Deep Residual Network with Channel Attention for Improving Hand Gesture Recognition with Surface Electromyography Signal,"*
-> **IEEE Access**, vol. 11, 2024. DOI: [10.1109/ACCESS.2024.0429000](https://doi.org/10.1109/ACCESS.2024.0429000)
+> **IEEE Access** *(under review)*
 
 The CNN-ResBiGRU-SE architecture integrates three complementary modules:
 
@@ -239,17 +239,16 @@ pip install scipy scikit-learn seaborn tensorflow --quiet
 
 ## Citation
 
-If you use this code or the CNN-ResBiGRU-SE model in your research, please cite:
+If you use this code or the CNN-ResBiGRU-SE model in your research, please cite (citation will be updated upon acceptance):
 
 ```bibtex
-@article{mekruksavanich2024cnn,
+@article{mekruksavanich2025cnn,
   title   = {Deep Residual Network with Channel Attention for Improving
              Hand Gesture Recognition with Surface Electromyography Signal},
   author  = {Mekruksavanich, Sakorn and Hnoohom, Narit and Jitpattanakul, Anuchit},
   journal = {IEEE Access},
-  volume  = {11},
-  year    = {2024},
-  doi     = {10.1109/ACCESS.2024.0429000}
+  note    = {Under review},
+  year    = {2025}
 }
 ```
 
